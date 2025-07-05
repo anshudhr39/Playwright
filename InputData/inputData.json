@@ -1,0 +1,11 @@
+{
+    "url": "https://rahulshettyacademy.com/client/",
+    "username": "anshudhr39@gmail.com",
+    "password": "Admin@123",
+    "expectedLoginText": "Automation Practice",
+    "expectedProductText": "ZARA COAT 3",
+    "cardNumber": "4542 9931 9292 2293",
+    "cvv": "123",
+    "nameOnCard": "Anshu Dhar",    
+    "expectedCartText": "My Cart"
+}
